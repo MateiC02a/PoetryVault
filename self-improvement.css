@@ -83,6 +83,9 @@ h2 {
     text-align: center;
   }
   @media(max-width:992px) {
+    h1 {
+        font-size: 3.5rem;
+    }
     .title-main {
         text-align: center;
     }

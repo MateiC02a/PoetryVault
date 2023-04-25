@@ -92,6 +92,7 @@ h2 {
         text-align: center;
     }
     img {
+        width: 95%;
         position: static;
         margin: 15% auto 10%;
     }
